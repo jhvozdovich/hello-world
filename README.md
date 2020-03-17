@@ -1,4 +1,4 @@
-# _Favorite Things_
+# _Hello World_
 
 #### _HTML Exercise for Epicodus, March 16, 2020_
 
@@ -13,7 +13,6 @@ _This web page demonstrates basic HTML elements and was used to practice committ
 * Clone this repository.
 * Navigate to html file.
 * Right click and open in the browser of your choice.
-
 
 ## Known Bugs
 
